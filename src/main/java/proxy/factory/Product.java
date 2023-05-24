@@ -1,4 +1,4 @@
-package factory;
+package proxy.factory;
 
 /**
  * @author bk

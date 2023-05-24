@@ -1,4 +1,4 @@
-package factory;
+package proxy.factory;
 
 import simple_factory.Product;
 
