@@ -1,6 +1,8 @@
 package status;
 
 /**
+ * 状态模式,每个状态实现对同做的单独处理,并维护一个上下文类context来触发动作和维护当前状态
+ * 在状态类中处理状态的前后扭转
  * @author bk
  */
 public class Context {
